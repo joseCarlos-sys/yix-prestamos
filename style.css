@@ -1,0 +1,30 @@
+/* === Paleta Fintech YIX Préstamos === */
+body {
+  background-color: #F4F6F8;
+  color: #1F2937;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #3B82F6;
+}
+
+a {
+  color: #10B981;
+  text-decoration: none;
+}
+
+button, .btn-primary {
+  background-color: #F59E0B;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Hover states opcionales */
+button:hover, .btn-primary:hover {
+  opacity: 0.9;
+}
